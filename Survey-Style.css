@@ -1,0 +1,75 @@
+body {
+  background-color: lightgrey;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 7%;
+  margin-left: 30%;
+  margin-right: 15%;
+  margin-bottom: 10%;
+  /* width: 500px; */
+}
+h1{
+  margin-bottom: 0;
+  border: none;
+}
+p {
+  margin-top: 0;
+  border: none;
+}
+input:read-write{
+  width: 500px;
+  height: 25px;
+  border: none;
+}
+option value {
+  width: 500px;
+  height: 25px;
+  border: none;
+}
+.Email {
+  padding-top: 5%;
+  width: 100%;
+  border: none;
+}
+.Age {
+  padding-top: 5%;
+  width: 100%;
+  border: none;
+
+}
+.City {
+  padding-top: 5%;
+  min-width: 500px;
+  min-height: 50px;
+  border: none;
+}
+.Recommend {
+  padding-top: 3%;
+  display: block;
+  border: none;
+}
+.Fav {
+  padding-top: 5%;
+  min-width: 500px;
+  border: none;
+}
+.Improvement {
+  padding-top: 2%;
+  display: block;
+  border: none;
+}
+.Suggestions {
+  padding-top: 3%;
+  border: none;
+}
+.submit {
+  opacity: 0.6;
+  background-color: blue;
+  color: white;
+  border: none;
+  text-align: center;
+  font-size: 15px;
+  padding: 12px 45px 12px 45px;
+  margin: 20px 0 0 5px;
+  border-radius: 20px;
+
+}
